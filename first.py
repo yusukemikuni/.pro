@@ -1,1 +1,2 @@
-print("helloworld")
+#出力
+print("hello.pro")
